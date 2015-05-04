@@ -1,0 +1,19 @@
+{
+  "name": "kud-video-support",
+  "version": "1.0.0",
+  "description": "Gives you some great methods for your video.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kud/video-support.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kud/video-support/issues"
+  },
+  "homepage": "https://github.com/kud/video-support#readme"
+}
